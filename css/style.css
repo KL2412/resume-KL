@@ -163,6 +163,7 @@ a:hover {
 .title-left {
   font-size: 2rem;
   position: relative;
+  padding-left: 20px;
 }
 
 .title-left:before {
@@ -694,6 +695,14 @@ a:hover {
   background-color: rgb(81, 142, 223);
 }
 
+.highlight{
+  color:teal;
+}
+
+.bold{
+  font-weight: bold!important ;
+}
+
 /*======================================
 //--//-->   SERVICES
 ======================================*/
@@ -1213,7 +1222,7 @@ footer .credits a {
   }
 
   .intro .intro-subtitle {
-    font-size: 2.5rem;
+    font-size: 2rem;
   }
 
   .intro-single .intro-title {
